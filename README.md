@@ -4,7 +4,7 @@ Este proyecto es una página web simple creada con HTML y CSS. Está siendo util
 
 ## Instalación
 
-Clona este repositorio en tu máquina local:
+Clona este repositorio en tu máquina local usando git:
 
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
